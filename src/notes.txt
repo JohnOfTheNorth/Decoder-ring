@@ -1,0 +1,16 @@
+store input into a seperated array
+that splits the alphabet into different
+elements in that array.
+
+using that array we can then move onto
+the shift based off of the polarity
+of the number presented
+
+if(shift isnt present, =0, <-25 || > 25)
+return false;
+
+keeps the spaces as inputted
+
+toLowerCase() input
+
+wrap the letter if its at A or Z
